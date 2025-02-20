@@ -2,7 +2,7 @@
 
 ## About
 
-MATLAB exercises on polynomial functions for the final exam of the Calculus 1 course.
+MATLAB exercises on polynomial functions for final exam of Calculus 1 course.
 
 ## Technologies Used
 
