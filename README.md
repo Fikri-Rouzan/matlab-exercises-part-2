@@ -7,4 +7,4 @@ A collection of MATLAB exercises focusing on polynomial functions, prepared for 
 ## 🛠️ Technologies Used
 
 - 🌐 **Programming Language:** MATLAB.
-- 🖥️ **Tool:** MATLAB Online.
+- ⚡ **Tool:** MATLAB Online.
