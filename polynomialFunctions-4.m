@@ -35,12 +35,15 @@ yl = ylim;
 for i = 1:length(sol_a)
     xline(double(sol_a(i)), '--b', 'LineWidth', 1.5);
 end
+
 for i = 1:length(sol_b)
     xline(double(sol_b(i)), '--r', 'LineWidth', 1.5);
 end
+
 for i = 1:length(sol_c)
     xline(double(sol_c(i)), '--g', 'LineWidth', 1.5);
 end
+
 for i = 1:length(sol_d)
     xline(double(sol_d(i)), '--m', 'LineWidth', 1.5);
 end

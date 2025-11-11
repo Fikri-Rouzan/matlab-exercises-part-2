@@ -1,10 +1,10 @@
 # MATLAB Exercises Part 2
 
-## About
+## ℹ️ About
 
-MATLAB exercises on polynomial functions for final exam of Calculus 1 course.
+A collection of MATLAB exercises focusing on polynomial functions, prepared for the Calculus 1 final exam.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Programming Language: MATLAB.
-- Software: MATLAB.
+- 🌐 **Programming Language:** MATLAB.
+- 🖥️ **Tool:** MATLAB Online.
