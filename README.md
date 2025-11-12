@@ -2,7 +2,7 @@
 
 ## ℹ️ About
 
-A collection of MATLAB exercises focusing on polynomial functions, prepared for the Calculus 1 final exam.
+A collection of MATLAB exercises focusing on polynomial functions, prepared for the Kalkulus 1 (Calculus 1) final exam.
 
 ## 🛠️ Technologies Used
 
